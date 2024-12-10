@@ -1,0 +1,16 @@
+[
+    {
+        "key": "SD-18840",
+        "openstack": "juliett",
+        "cpu": 40.0,
+        "ram": 40960.0,
+        "project": "internal"
+    },
+    {
+        "key": "SD-18839",
+        "openstack": "golf",
+        "cpu": 20.0,
+        "ram": 40960.0,
+        "project": "iaas"
+    }
+]
